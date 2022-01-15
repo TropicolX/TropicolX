@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TropicolX/TropicolX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
    
-# Hi, I'm Usman!
+# Hi, I'm Oluwabusayo!
 
 A Fullstack Software Engineer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
 
