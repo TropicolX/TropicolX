@@ -21,7 +21,7 @@ A Front End Software Developer. I enjoy building pixel-perfect user interfaces w
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:busayojacobs17@gmail.com)
 
 - 🌱 I’m currently learning Technical Writing and Web3
-- 👯 I’m looking to collaborate on impactful projects with Django and React
+- 👯 I’m looking to collaborate on impactful projects with React and Django
 - 💬 Ask me about Anything. I would love to help!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a big fan of Anime
