@@ -22,7 +22,7 @@ A Fullstack Software Engineer. I enjoy building pixel-perfect user interfaces wi
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Technical Writing and Web3
-- 👯 I’m looking to collaborate on Open Source projects
+- 👯 I’m looking to collaborate on impactful projects with Django and React.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 😄 Pronouns: He/Him
@@ -45,6 +45,8 @@ A Fullstack Software Engineer. I enjoy building pixel-perfect user interfaces wi
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
