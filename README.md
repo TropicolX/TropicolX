@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A Fullstack Software Engineer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabusayojacobs/)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@busayojacobs17@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:busayojacobs17@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
