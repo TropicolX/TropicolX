@@ -42,6 +42,6 @@ A Fullstack Software Engineer. I enjoy building pixel-perfect user interfaces wi
 
 ## Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropicolX&count_private=true&show_icons=true&theme=onedark)](https://github.com/TropicolX/github-readme-stats)
+[![Oluwabusayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropicolX&count_private=true&show_icons=true&theme=radical)](https://github.com/TropicolX/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicolX&layout=compact&theme=onedark)](https://github.com/TropicolX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicolX&layout=compact&theme=radical)](https://github.com/TropicolX/github-readme-stats)
