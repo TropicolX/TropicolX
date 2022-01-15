@@ -22,7 +22,7 @@ A Fullstack Software Developer. I enjoy building pixel-perfect user interfaces w
 
 - 🌱 I’m currently learning Technical Writing and Web3
 - 👯 I’m looking to collaborate on impactful projects with Django and React
-- 💬 Ask me about Frontend Technologies
+- 💬 Ask me about Anything. I would love to help!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a big fan of Anime
 
