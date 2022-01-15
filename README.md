@@ -20,13 +20,11 @@ A Fullstack Software Engineer. I enjoy building pixel-perfect user interfaces wi
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabusayojacobs/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:busayojacobs17@gmail.com)
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Technical Writing and Web3
-- 👯 I’m looking to collaborate on impactful projects with Django and React.
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on impactful projects with Django and React
+- 💬 Ask me about Frontend Technologies
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a big fan of Anime.
+- ⚡ Fun fact: I'm a big fan of Anime
 
 ## Languages, Frameworks & Libraries
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
