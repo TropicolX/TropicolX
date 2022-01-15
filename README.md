@@ -15,7 +15,7 @@ Here are some ideas to get you started:
    
 # Hi, I'm Oluwabusayo!
 
-A Fullstack Software Developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
+A Front End Software Developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabusayojacobs/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:busayojacobs17@gmail.com)
