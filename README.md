@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A Front End Software Developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabusayojacobs/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabusayo-jacobs-116522200/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:busayojacobs17@gmail.com)
 
 - 🌱 I’m currently learning Technical Writing and Web3
