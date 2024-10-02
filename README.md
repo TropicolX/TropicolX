@@ -74,7 +74,7 @@ A Software Engineer and Technical Writer. I bring both technical expertise and e
             <p>Powerful and type-safe form state management for the web</p>
         </td>
         <td>
-           <i>Docs</i> <a href="https://github.com/TanStack/form/pulls?q=is:pr+author:TropicolX">Contributions</a>
+           <i>Docs & Code</i> <a href="https://github.com/TanStack/form/pulls?q=is:pr+author:TropicolX">Contributions</a>
             <p></p>
         </td>
       </tr>
@@ -87,7 +87,7 @@ A Software Engineer and Technical Writer. I bring both technical expertise and e
             <p>Cross-platform implementation of Web Cryptography APIs</p>
         </td>
         <td>
-           <i>Docs</i> <a href="https://github.com/google/webcrypto.dart/pulls?q=is:pr+author:TropicolX">Contributions</a>
+           <i>Docs & Code</i> <a href="https://github.com/google/webcrypto.dart/pulls?q=is:pr+author:TropicolX">Contributions</a>
             <p></p>
         </td>
       </tr>
@@ -100,7 +100,7 @@ A Software Engineer and Technical Writer. I bring both technical expertise and e
             <p> Datasets, samplers, transforms, and pre-trained models for geospatial data</p>
         </td>
         <td>
-           <i>Docs</i> <a href="https://github.com/microsoft/torchgeo/pulls?q=is:pr+author:TropicolX">Contributions</a>
+           <i>Docs & Code</i> <a href="https://github.com/microsoft/torchgeo/pulls?q=is:pr+author:TropicolX">Contributions</a>
             <p></p>
         </td>
       </tr>
