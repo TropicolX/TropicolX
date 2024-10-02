@@ -54,6 +54,72 @@ A Front End Software Developer. I enjoy building pixel-perfect user interfaces w
 
 ![](https://komarev.com/ghpvc/?username=TropicolX)
 
+## Open Source Contributions
+
+<table>
+    <thead align="center">
+      <tr border="none">
+        <td><b>🏛️ Organizations</b></td>
+        <td><b>🏛️ Projects</b></td>
+        <td><b>🛠️ Contributions</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td width="400"><a href="https://github.com/TanStack">
+            <b>Tanstack</b></a>
+        </td>
+         <td width="400"><a href="https://github.com/TanStack/form">
+            <b>Tanstack Form</b></a>:
+            <p>Powerful and type-safe form state management for the web</p>
+        </td>
+        <td>
+           <i>Docs</i> <a href="https://github.com/TanStack/form/pulls?q=is:pr+author:TropicolX">Contributions</a>
+            <p></p>
+        </td>
+      </tr>
+      <tr>
+         <td width="400"><a href="https://github.com/google/webcrypto.dart/pulls?q=is:pr+author:TropicolX">
+            <b>Google</b></a>
+        </td>
+        <td width="400">
+            <a href="https://github.com/google/webcrypto.dart"><b>Webcrypto</b></a>:
+            <p>Cross-platform implementation of Web Cryptography APIs</p>
+        </td>
+        <td>
+           <i>Docs</i> <a href="https://github.com/google/webcrypto.dart/pulls?q=is:pr+author:TropicolX">Contributions</a>
+            <p></p>
+        </td>
+      </tr>
+      <tr>
+         <td width="400"><a href="https://github.com/microsoft">
+            <b>Microsoft</b></a>
+        </td>
+        <td width="400">
+            <a href="https://github.com/microsoft/torchgeo"><b>TorchGeo</b></a>:
+            <p> Datasets, samplers, transforms, and pre-trained models for geospatial data</p>
+        </td>
+        <td>
+           <i>Docs</i> <a href="https://github.com/microsoft/torchgeo/pulls?q=is:pr+author:TropicolX">Contributions</a>
+            <p></p>
+        </td>
+      </tr>
+      <tr>
+         <td width="400"><a href="https://github.com/canonical">
+            <b>Canonical</b></a>
+        </td>
+        <td width="400">
+            <a href="https://github.com/canonical/open-documentation-academy"><b>Landscape</b></a>:
+            <p> Landscape is the leading management and administration tool for all versions of Ubuntu</p>
+        </td>
+        <td>
+           <i>Docs</i> <a href="https://github.com/canonical/open-documentation-academy/pulls?q=is:pr+author:TropicolX">Contributions</a>
+            <p></p>
+        </td>
+      </tr>
+    </tbody>
+</table>
+
 ## Statistics
 
 [![Oluwabusayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropicolX&count_private=true&show_icons=true&theme=radical)](https://github.com/TropicolX/github-readme-stats)
