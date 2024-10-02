@@ -15,16 +15,16 @@ Here are some ideas to get you started:
    
 # Hi, I'm Oluwabusayo!
 
-A Front End Software Developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
+A Software Engineer and Technical Writer. I bring both technical expertise and excellent content creation capabilities. My proven track record emphasizes my commitment to delivering comprehensive documentation, user-centric platforms, and state-of-the-art software solutions.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabusayo-jacobs-116522200/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:busayojacobs17@gmail.com)
 
-- 🌱 I’m currently learning Technical Writing and Web3
-- 👯 I’m looking to collaborate on impactful projects with React and Django
+- 🌱 I’m currently learning Blockchain & Web3
+- 👯 I’m looking to collaborate on impactful documentation projects
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a big fan of Anime
+- ⚡ Fun fact: I'm a big fan of Astronomy
 
 ## Languages, Frameworks & Libraries
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
@@ -60,7 +60,7 @@ A Front End Software Developer. I enjoy building pixel-perfect user interfaces w
     <thead align="center">
       <tr border="none">
         <td><b>🏛️ Organizations</b></td>
-        <td><b>🏛️ Projects</b></td>
+        <td><b>🗂️ Projects</b></td>
         <td><b>🛠️ Contributions</b></td>
       </tr>
     </thead>
