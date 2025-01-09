@@ -66,6 +66,19 @@ A Software Engineer and Technical Writer. I bring both technical expertise and e
     </thead>
     <tbody>
       <tr>
+        <td width="400"><a href="https://github.com/eqlabs">
+            <b>Equilibrium</b></a>
+        </td>
+         <td width="400"><a href="https://github.com/eqlabs/pathfinder">
+            <b>Pathfinder</b></a>:
+            <p>A Starknet full node written in Rust</p>
+        </td>
+        <td>
+           <i>Docs</i> <a href="https://github.com/eqlabs/pathfinder/pulls?q=is:pr+author:TropicolX">Contributions</a>
+            <p></p>
+        </td>
+      </tr>
+      <tr>
         <td width="400"><a href="https://github.com/TanStack">
             <b>Tanstack</b></a>
         </td>
