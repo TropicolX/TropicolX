@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
    
-# Hi, I'm Oluwabusayo!
+# Hi, I'm Alex!
 
 A Software Engineer and Technical Writer. I bring both technical expertise and excellent content creation capabilities. My proven track record emphasizes my commitment to delivering comprehensive documentation, user-centric platforms, and state-of-the-art software solutions.
 
